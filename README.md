@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Penh seyha</h1>
-<h3 align="center">I am all and I am one</h3>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+<h1 align="center" class="animate__animated animate__bounce">Hi 👋, I'm Penh Seyha</h1>
+<h3 align="center" class="animate__animated animate__fadeIn">I am all and I am one</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonker009&label=Profile%20views&color=0e75b6&style=flat" alt="bonker009" /> </p>
 
